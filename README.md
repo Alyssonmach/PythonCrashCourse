@@ -1,4 +1,4 @@
-# Curso Python
+# Python Learning
  
  - Códigos utilizados durante a aprendizagem de programação Python.
 
