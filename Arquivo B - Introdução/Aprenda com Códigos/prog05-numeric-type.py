@@ -1,15 +1,15 @@
-# data types in python
+# tipos de dados em python
 
-#creating different types of data
+# criando diferentes tipos de dados
 data1 = 12
 data2 = 3.4
 data3 = 'string'
-data4 = ['dogs', 'cats']
-data5 = ('random', 3)
-data6 = {'cat': ['live', 'death'], 'light': ['particle', 'wave']}
+data4 = ['cachorro', 'gato']
+data5 = ('aleatório', 3)
+data6 = {'gato': ['vivo', 'morto'], 'luz': ['partícula', 'onda']}
 data7 = 7j
 
-# viewing data types
+# visualizando os tipos de dados
 print(type(data1), data1)
 print(type(data2), data2)
 print(type(data3), data3)
