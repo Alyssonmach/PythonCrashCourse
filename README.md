@@ -1,8 +1,8 @@
-# Python Learning
+# Learning Python with Codes
  
- - Códigos utilizados durante a aprendizagem de programação Python.
+ - Codes used when learning Python programming.
 
-#### Versão do Python utilizada: 3.7
+#### Python version used: 3.7
 
-### Alguma dúvida? Entre em contato comigo:
-- [Me envie um e-mail](mailto:alyssonmachado388@gmail.com);
+### Any questions? Contact me:
+- [Send me a email](mailto:alyssonmachado388@gmail.com);
