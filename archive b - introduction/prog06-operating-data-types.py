@@ -19,7 +19,7 @@ print(activated or disabled)
 print(activated or activated)
 print(disabled or disabled, '\n')
 
-# condition operators can be used
+# mathematical operators can be used
 
 print(7 > 5)
 print(7 < 5, '\n')
