@@ -41,3 +41,6 @@
 - [x] Faça um programa que solicite ao usuário uma coordenada (x,y) do plano cartesiano e indique sua distância da origem.  
 
 - [x] x quantidades de apostadores investiram em um prêmio. Esses apostadores conseguiram ganhar o dinheiro no sorteio. Faça um programa que solicite do usuário quanto cada apostador investiu em um prêmio de loteria, quanto foi ganho e, com base nessas informações, divida o prêmio para cada um dos apostadores com base em seus investimentos.
+
+### Alguma Dúvida? Entre em Contato Comigo:
+- [Me envie um e-mail](mailto:alysson.barbosa@ee.ufcg.edu.br)
