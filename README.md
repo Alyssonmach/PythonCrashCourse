@@ -1,10 +1,8 @@
-# Learning Python with Codes
+# Aprenda Python com Códigos
 
-![learning-python-with-codes](https://user-images.githubusercontent.com/58775072/90770030-8ff83880-e2c7-11ea-9ed8-75475c94ad6d.jpg)
- 
- - Codes used when learning Python programming.
+![aprenda-python-com-codigos](https://user-images.githubusercontent.com/58775072/90770030-8ff83880-e2c7-11ea-9ed8-75475c94ad6d.jpg)
 
-#### Python version used: 3.7
+#### Versão do Python Utilizada: 3.7
 
-### Any questions? Contact me:
-- [Send me a email](mailto:alyssonmachado388@gmail.com);
+### Alguma Pergunta? Entre em Contato Comigo:
+- [Me envie um e-mail](mailto:alyssonmachado388@gmail.com);
