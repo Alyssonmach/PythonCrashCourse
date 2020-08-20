@@ -24,9 +24,7 @@
 
 - [x] Leia o salário de um funcionário e a porcentagem de aumento. Imprima quanto será o novo salário do funcionário.  
 
-- [x] Uma empresa contrata um encadanador por x reais ao dia. Faça um programa que calcule o salário do encanador, solicitando do usuário o valor do dia de trabalho, a quantidade de dias e o desconto voltando ao imposto de renda.  
-
-- [x] Três jovens ganham um prêmio de 780 mil reais na loteria. Pergunte ao usuário a porcentagem que cada um dos jovens irá receber e imprima o valor da quantia distribuida. Caso sobre dinheiro, imprima essa informação também. Lembrando que o resultado total não pode extrapolar a quantida de 780 mil reais.  
+- [x] Uma empresa contrata um encadanador por x reais ao dia. Faça um programa que calcule o salário do encanador, solicitando do usuário o valor do dia de trabalho, a quantidade de dias e o desconto voltando ao imposto de renda.    
 
 - [x] Faça um programa que converta uma letra maiúscula em uma letra minúscula.  
 
@@ -36,7 +34,7 @@
 
 - [x] Leia um número inteiro em segundos, imprima-o em horas, minutos e segundos.  
 
-- [x] Faça um programa que leia o início de um experimento (horas, minutos e segundos), a duração em segundos de um experimento e mostra ao usuário o horário de fim desse experimento (em horas, minutos e segundos).  
+- [x] Faça um programa que leia o início de um experimento (horas, minutos e segundos), a duração em segundos de um experimento e mostre ao usuário o horário de fim desse experimento (em horas, minutos e segundos).  
 
 - [x] Faça um programa que solicite ao usuário uma coordenada (x,y) do plano cartesiano e indique sua distância da origem.  
 
