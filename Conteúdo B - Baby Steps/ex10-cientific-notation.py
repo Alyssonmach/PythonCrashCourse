@@ -1,0 +1,9 @@
+number1 = 14e-4
+number2 = 14e4
+
+print(number1)
+print(number2)
+
+number3 = 1456787654345.34567654387654356576567654333567654676543e50
+
+print(number3)
