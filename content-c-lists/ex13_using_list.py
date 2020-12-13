@@ -1,3 +1,3 @@
-from ex12_bicycles import bicycles
+from bicycles import bicycles
 
-print('My first bicycle was a {}.'.format(bicycles[3].title()))
+print('My first bicycle was a {}.'.format(bicycles[3].capitalize()))
