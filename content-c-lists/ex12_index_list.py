@@ -1,4 +1,7 @@
-from bicycles import bicycles
+import sys
+sys.path.append('../implementations/')
+
+from implementations.bicycles import bicycles
 
 print(bicycles)
 print('{}, {}, {}'.format(bicycles[0].capitalize(), bicycles[1].capitalize(), 

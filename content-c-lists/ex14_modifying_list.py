@@ -1,4 +1,8 @@
-from motorcycles import motorcycles
+import sys
+sys.path.append('../implementations/')
+
+
+from implementations.motorcycles import motorcycles
 
 print(motorcycles)
 
