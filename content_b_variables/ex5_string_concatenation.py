@@ -1,5 +1,5 @@
-first_name = 'ada'
-last_name = "lovelace"
+first_name = 'alysson'
+last_name = "machado"
 
 # programmer format "i like complicated things, love me"
 idiot_format = first_name.capitalize().__add__(" " + last_name.capitalize())

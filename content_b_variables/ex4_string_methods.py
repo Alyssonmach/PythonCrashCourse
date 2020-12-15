@@ -1,4 +1,4 @@
-name = "ada lovelace"
+name = "alysson machado"
 # testing string (str) methods (Own! That's a comment)
 print(name)
 print(name.capitalize())
